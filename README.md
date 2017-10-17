@@ -3,7 +3,7 @@
 ### Deploying the popular WordPress blogging platform with MySQL database using docker compose
 
 ```
-###### What is WordPress?
+What is WordPress?
 ```
 WordPress is a free and open source blogging tool and a content management system (CMS) based on PHP   
 and MySQL, which runs on a web hosting service. Features include a plugin architecture and a template   
